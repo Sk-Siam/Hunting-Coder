@@ -1,0 +1,31 @@
+
+.main {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    padding: 6rem;
+    min-height: 100vh;
+    justify-content: flex-start;
+    padding: 3rem;
+    margin-top: 30px;
+  }
+  .blogItemp{
+    max-width: 45vw;
+    font-size: 18px;
+  }
+  .blogItemh3{
+    font-size: 2rem;
+    margin: 0;
+    padding: 0;
+  }
+
+  .btn {
+    color: white;
+    background: black;
+    padding: 7px 6px;
+    cursor: pointer;
+    border-radius: 6px;
+    font-size: 12px;
+    margin-bottom: 9px;
+  }
