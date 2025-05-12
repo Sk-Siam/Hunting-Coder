@@ -44,6 +44,17 @@
     border-radius: 6px;
     font-size: 12px;
     margin-bottom: 9px;
+    transition: all 0.3s;
+}
+
+.btn:hover {
+    color: black;
+    background: white;
+    padding: 7px 6px;
+    cursor: pointer;
+    border-radius: 6px;
+    font-size: 14px;
+    margin-bottom: 9px;
 }
 
 
